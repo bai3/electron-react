@@ -23,12 +23,6 @@ npm run dev:react
 npm run dev:electron
 ```
 
-or
-
-```bash
-npm run dev
-```
-
 ## Packaging
 To generate a project package run `package`
 
